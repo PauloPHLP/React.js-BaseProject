@@ -5,13 +5,21 @@
 </h1>
 
 ## 🔎️ Description
-React.js base application with default configurations (ESLint, Prettier and .editorconfig) to be used as a faster start for new projects.
+React.js base application with default configurations to be used as a faster start for new projects. This base was created by using create-react-app.
+
+## 👀️ Settings made in this base project:
+
+- .editorconfig
+- ESLint
+- Prettier
+- Folders structure
+- React Router Dom
 
 ## 🚀️ Technologies
 
 - React.js
 - TypeScript
- 
+
 ---
 
 Thank you and good coding 😎️
